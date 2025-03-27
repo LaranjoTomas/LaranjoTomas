@@ -1,4 +1,7 @@
 My name is Tomás Laranjo. I’m a senior bachelor’s student and an incoming master’s student at Aveiro University in Portugal
+<div align="center">
+![Discord Status](https://discord.c99.nl/widget/theme-4/crim_lombardy.png)
+</div>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=LaranjoTomas&theme=dark&show_icons=true">
