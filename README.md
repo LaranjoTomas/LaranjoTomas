@@ -24,7 +24,7 @@ My name is Tomás Laranjo. I’m a senior bachelor’s student and an incoming m
 ---
 
 <div align="center">
-    ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+    :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 </div>
 <!--START_SECTION:waka-->
 
