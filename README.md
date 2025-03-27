@@ -2,7 +2,7 @@ My name is Tomás Laranjo. I’m a senior bachelor’s student and an incoming m
 
 <div align="center">
     
-![Discord Status](https://discord.c99.nl/widget/theme-5/491970909176070164.png)
+![Discord Status](https://discord.c99.nl/widget/theme-4/491970909176070164.png)
 
 </div>
 
