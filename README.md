@@ -9,8 +9,10 @@ My name is Tomás Laranjo. I’m a senior bachelor’s student and an incoming m
 -   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm) / [opera](https://www.opera.com/) 
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new/choose)!
 ---
+
 ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 
+---
 <!--START_SECTION:waka-->
 
 ```txt
