@@ -25,7 +25,9 @@ My name is Tomás Laranjo. I’m a senior bachelor’s student and an incoming m
 ---
 
 <div align="center">  
+    
   ![Snake Animation](https://github.com/LaranjoTomas/LaranjoTomas/blob/output/github-snake-dark.svg)
+
 </div>
 
 ---
