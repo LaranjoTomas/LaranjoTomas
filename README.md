@@ -1,13 +1,10 @@
 My name is Tomás Laranjo. I’m a senior bachelor’s student and an incoming master’s student at Aveiro University in Portugal.
-##
 
 <div align="center">
     
     ![Discord Status](https://discord.c99.nl/widget/theme-4/491970909176070164.png )
 
 </div>
-
-## 
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=LaranjoTomas&theme=dark&show_icons=true">
@@ -19,11 +16,6 @@ My name is Tomás Laranjo. I’m a senior bachelor’s student and an incoming m
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new/choose)!
 
 ---
-<div align="center">
-    ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
-</div>
----
-
 <div align="center">  
     
   ![Snake Animation](https://github.com/LaranjoTomas/LaranjoTomas/blob/output/github-snake-dark.svg)
@@ -32,6 +24,9 @@ My name is Tomás Laranjo. I’m a senior bachelor’s student and an incoming m
 
 ---
 
+<div align="center">
+    ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+</div>
 <!--START_SECTION:waka-->
 
 ```txt
