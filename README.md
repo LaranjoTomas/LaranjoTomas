@@ -13,7 +13,7 @@ My name is Tomás Laranjo. I’m a senior bachelor’s student and an incoming m
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=LaranjoTomas&layout=compact&langs_count=7&theme=gotham"/>
-  <img height="180em" src="https://github-readme-stats-npdib1p4e-laranjotomas.vercel.app/api/top-langs/?username=LaranjoTomas&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaranjoTomas&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 
