@@ -12,6 +12,7 @@ My name is Tomás Laranjo. I’m a senior bachelor’s student and an incoming m
 ---
 
 <div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=LaranjoTomas&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=LaranjoTomas&layout=compact&langs_count=7&theme=gotham"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaranjoTomas&layout=compact&langs_count=7&theme=gotham"/>
 </div>
