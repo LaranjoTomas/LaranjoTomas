@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnaSantos05.AnaSantos05" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LaranjoTomas.LaranjoTomas" />
 
 
 My name is Tomás Laranjo. I’m a senior bachelor’s student and an incoming master’s student at Aveiro University in Portugal.
